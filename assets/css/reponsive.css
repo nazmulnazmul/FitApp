@@ -1,0 +1,387 @@
+
+/* reponsive start */
+@media(max-width:1199px){
+    /* code here */
+
+
+.step_area{}
+.step_area .step_subTitle{}
+.step_area .step_subTitle h3{}
+
+.step_area .step_title{}
+.step_area .step_title h1{}
+
+
+.step_area .step_item{}
+.step_area .step_item .step_content_box{
+    margin-top: 20px;
+}
+.step_area .step_item .step_content_box .step_icon{
+    text-align: center;
+    background: linear-gradient(to bottom right, var(--primary), var(--secondary));
+    height: 84px;
+    width: 84px;
+    border-radius: 50px;
+    margin-left: 90px;
+}
+.step_area .step_item .step_content_box .step_icon i{}
+/* step css end  */
+}
+
+
+
+@media(max-width:991px){
+    .header_hero{
+        padding-top: 70px;
+    }
+    .header_hero .left_content h1{
+        text-align: center;
+        font-size: 39px;
+        margin: 0px;
+        padding-bottom: 10px;
+    }
+
+    .header_hero .left_content p{
+        text-align: center;
+        margin: 0;
+        padding-bottom: 50px;
+        font-size: 17px;
+        line-height: 27px;
+    }
+    .header_hero .left_content .btn_one{
+        margin-left: 170px;
+    }
+    .header_hero .left_content .btn_one{
+
+    }
+
+    .right_content{
+        padding-top: 60px;
+        margin-left: 166px;
+    }
+    .right_content .images{}
+    .right_content .images img{}
+
+    /* about css start  */
+    .about{
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .about .about_left_content{
+
+    }
+    .about .about_left_content h4{
+        font-size: 20px;
+    }
+    .about .about_left_content h1{
+        font-size: 38px;
+        padding-top: 10px;
+    }
+    .about .about_left_content p{
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .about .about_left_content a{
+
+    }
+
+
+    .about .about_right_content{
+        padding-top: 65px;
+    }
+    .about .about_right_content .image{}
+    .about .about_right_content .image img{}
+
+    /* about css end */
+
+
+    /* features css start */
+    /* .features_content .features_box{
+        background: #F0F6FF;
+        padding: 20px 20px;
+        border-radius: 10px;
+        margin-left: 25px;
+        margin-right: 5px;
+        width: 330px;
+    } */
+    /* features css end */
+
+    /* step css start  */
+.step_area{}
+.step_area .step_subTitle{}
+.step_area .step_subTitle h3{}
+
+.step_area .step_title{}
+.step_area .step_title h1{}
+
+
+.step_area .step_item{}
+.step_area .step_item .step_content_box{}
+.step_area .step_item .step_content_box .step_icon{
+    text-align: center;
+  background: linear-gradient(to bottom right, var(--primary), var(--secondary));
+  height: 84px;
+  width: 84px;
+  border-radius: 50px;
+  margin-left: 42px;
+}
+.step_area .step_item .step_content_box .step_icon i{}
+/* step css end  */
+
+
+
+/* latest_varsion css start */
+.latest_varsion{
+    padding-top: 90px;
+    padding-bottom: 70px;
+}
+.latest_varsion .latest_version_image{
+    margin-right: 30px;
+    margin: 0;
+}
+.latest_varsion .latest_version_image img{
+    width: 100%;
+}
+
+.latest_varsion .latest_version_content{
+    padding-top: 32px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.latest_varsion .latest_version_content h5{
+    color: #5574E9;
+    font-size: 23px;
+    line-height: 33px;
+    margin: 0;
+    font-weight: inherit;
+}
+.latest_varsion .latest_version_content h1{
+    color: #262B47;
+    font-size: 43px;
+    line-height: 53px;
+    font-weight: bold;
+    padding-bottom: 30px;
+    margin: 0;
+}
+.latest_varsion .latest_version_content p{
+    color: #919294;
+    font-size: 18px;
+    line-height: 28px;
+    margin: 0;
+    padding-bottom: 20px;
+}
+.latest_varsion .latest_version_content .latest_button{}
+.bg_secondary_gradient{
+    background: linear-gradient(to bottom right, var(--primary), var(--secondary));
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.bg_secondary_gradient i{
+    margin-left: 14px;
+}
+.latest_varsion .latest_version_content .latest_button .mb-0 p{
+    /* margin-left: 20px; */
+    margin-bottom: 0;
+}
+
+.latest_varsion .latest_version_content .latest_button .mb-0 h5{
+    /* margin-left: 20px; */
+    margin-bottom: 0px;
+}
+/* latest_varsion css end */
+}
+
+@media(max-width:767px){
+    .header_hero{}
+    .header_hero .left_content{}
+    .header_hero .left_content h1{
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .header_hero .left_content p{
+        font-size: 17px;
+        line-height: 27px;
+    }
+    .header_hero .left_content .btn_one{
+        margin-left: 70px;
+    }
+    .header_hero .left_content .btn_two{
+        margin-left: 20px;
+    }
+
+    .header_hero .right_content{
+        margin-left: 72px;
+     }
+    .header_hero .right_content .image{ 
+        /* margin-left: -20px; */
+    }
+
+
+    /* about css start  */
+    /* .about{}
+    .about .about_left_content{}
+    .about .about_left_content h4{}
+    .about .about_left_content h1{}
+    .about .about_left_content p{}
+    .about .about_left_content a{}
+
+
+    .about .about_right_content{}
+    .about .about_right_content .image{}
+    .about .about_right_content .image img{} */
+    /* about css end */
+
+    /* feature css start  */
+    .feature_item{
+        width: 100%;
+    }
+    .feature_item h5{
+        padding-top: 15px;
+        font-weight: bold;
+    }
+    .feature_item p{
+        color: #919294;
+        font-size: 17px;
+        line-height: 27px;
+    }
+    /* feature css end */
+
+
+    /* interface css start */
+    .interface{}
+    .interface .interface_box{}
+    .interface .interface_box h4{
+        font-size: 20px;
+    }
+    .interface .interface_box h1{
+        font-size: 33px;
+        line-height: 43px;
+    }
+    .interface .interface_box p{}
+    .interface .interface_box .btn{}
+    .interface .interface_box .btn a{}
+
+    
+    .interface .interface_image{
+        padding-top: 36px;
+    margin-left: 148px;
+    }
+    .interface .interface_image img{}
+    /* interface css end */
+
+
+    /* step css start  */
+.step_area{}
+.step_area .step_subTitle{}
+.step_area .step_subTitle h3{}
+
+.step_area .step_title{}
+.step_area .step_title h1{}
+
+
+.step_area .step_item{}
+.step_area .step_item .step_content_box{
+    margin-top: 20px;
+}
+.step_area .step_item .step_content_box .step_icon{
+    /* text-align: center;
+  background: linear-gradient(to bottom right, var(--primary), var(--secondary));
+  height: 84px;
+  width: 84px;
+  border-radius: 50px;
+  margin-left: 42px; */
+}
+.step_area .step_item .step_content_box .step_icon i{}
+/* step css end  */
+}
+
+@media(max-width:575px){
+    /* header_hero css start  */
+    .header_hero{}
+    .header_hero .left_content{}
+    .header_hero .left_content h1{
+        font-size: 30px;
+    }
+    .header_hero .left_content p{
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .header_hero .left_content .btn_one{
+        padding: 8px 28px;
+        margin-left: 130px;
+    }
+    .header_hero .left_content .btn_two{
+        padding: 8px 28px;
+        margin-left: 12px;
+    }
+
+
+    .header_hero .right_content{
+        margin-left: 100px;
+    }
+    .header_hero .right_content .images{}
+    .header_hero .right_content .images img{}
+    /* header_hero css end */
+
+    /* about css start  */
+    .about{}
+    .about .about_left_content{}
+    .about .about_left_content h4{
+        font-size: 18px;
+    }
+    .about .about_left_content h1{
+        font-size: 25px;
+        padding-top: 0px;
+    }
+    .about .about_left_content p{
+
+    }
+    .about .about_left_content .about_btn{
+        padding: 10px 30px;
+    }
+
+
+    .about .about_right_content {}
+    .about .about_right_content .image{}
+    .about .about_right_content .image img{}
+    /* about css end  */
+
+    /* interface css start */
+    .interface{}
+    .interface .interface_box{}
+    .interface .interface_box h4{
+        font-size: 20px;
+    }
+    .interface .interface_box h1{
+        font-size: 33px;
+        line-height: 43px;
+    }
+    .interface .interface_box p{}
+    .interface .interface_box .btn{
+        padding: 9px 32px;
+    }
+    .interface .interface_box .btn a{
+        color: #fff;
+    /* border: 1px solid #5770EA;
+    padding: 16px 50px;
+    border-radius: 50px;
+    transition: .4s;
+    font-weight: 500;
+    background: linear-gradient(to bottom right, var(--primary), var(--secondary)); */
+    }
+
+    
+    .interface .interface_image{
+        padding-top: 36px;
+    margin-left: 148px;
+    }
+    .interface .interface_image img{}
+    /* interface css end */
+}
+
+
+
+
+/* reponsive end */
